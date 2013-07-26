@@ -1,0 +1,1175 @@
+TMapbox
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-bzaqbjbysrzwbvdaryogwazgezzo/ScMapbox_Prefix.pch.pch ScMapbox_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-exephxqkqdspqlbtkswsbuitvzqu/ScMapbox_Prefix.pch.pch ScMapbox_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxViewProxy.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModule.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModuleAssets.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxView.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxViewProxy.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModule.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModuleAssets.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxView.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/libScMapbox.a normal armv7
+cLibtool /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/libScMapbox.a normal armv7s
+cCreateUniversalBinary /Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/libScMapbox.a normal armv7\ armv7s
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c0000000051D7BE360000000000000132
+t1373093430
+s306
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c0000000051D85195000000000000036B
+t1373131157
+s875
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000051D8519A00000000000001A0
+t1373131162
+s416
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000051D8519E00000000000D21C0
+t1373131166
+s860608
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051D851A000000000006B0A80
+t1373131168
+s7015040
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000051D851A500000000003F4610
+t1373131173
+s4146704
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libsqlite3.dylib
+c0000000051D851BD000000000014AAB0
+t1373131197
+s1354416
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libz.dylib
+c0000000051D851BD0000000000028500
+t1373131197
+s165120
+
+N/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.h
+c0000000051F0E7E300000000000000EE
+t1374742499
+s238
+
+N/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m
+c0000000051F0E7E300000000000008A3
+t1374742499
+s2211
+
+N/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.h
+c0000000051F0E7E300000000000000CD
+t1374742499
+s205
+
+N/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m
+c0000000051F0E7E3000000000000024C
+t1374742499
+s588
+
+N/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.h
+c0000000051F21D3900000000000001E7
+t1374821689
+s487
+
+N/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m
+c0000000051F21D43000000000000064A
+t1374821699
+s1610
+
+N/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.h
+c0000000051F0E8ED000000000000013D
+t1374742765
+s317
+
+N/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m
+c0000000051F21D0300000000000004AF
+t1374821635
+s1199
+
+N/Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m
+c0000000051F111A900000000000009ED
+t1374753193
+s2541
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/MapBox.h
+c0000000051CD99E2000000000000085A
+t1372428770
+s2138
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAbstractMercatorTileSource.h
+c0000000051CD99E10000000000000811
+t1372428769
+s2065
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAbstractWebMapSource.h
+c0000000051CD99E10000000000000A76
+t1372428769
+s2678
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAnnotation.h
+c0000000051CD99E10000000000001CB2
+t1372428769
+s7346
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCacheObject.h
+c0000000051CD99E10000000000000C21
+t1372428769
+s3105
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCircle.h
+c0000000051CD99E10000000000000C97
+t1372428769
+s3223
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCompositeSource.h
+c0000000051CD99E2000000000000068A
+t1372428770
+s1674
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMConfiguration.h
+c0000000051CD99E20000000000000AD9
+t1372428770
+s2777
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCoordinateGridSource.h
+c0000000051CD99E2000000000000088D
+t1372428770
+s2189
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMDatabaseCache.h
+c0000000051CD99E200000000000010C3
+t1372428770
+s4291
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMFoundation.h
+c0000000051CD99E20000000000000F55
+t1372428770
+s3925
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMFractalTileProjection.h
+c0000000051CD99E20000000000000AE5
+t1372428770
+s2789
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMGenericMapSource.h
+c0000000051CD99E20000000000000658
+t1372428770
+s1624
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMGlobalConstants.h
+c0000000051CD99E200000000000006A9
+t1372428770
+s1705
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMInteractiveSource.h
+c0000000051CD99E200000000000014A1
+t1372428770
+s5281
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMBTilesSource.h
+c0000000051CD99E20000000000000E1C
+t1372428770
+s3612
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapBoxSource.h
+c0000000051CD99E200000000000022D0
+t1372428770
+s8912
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapLayer.h
+c0000000051CD99E200000000000016C3
+t1372428770
+s5827
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapOverlayView.h
+c0000000051CD99E20000000000000744
+t1372428770
+s1860
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapScrollView.h
+c0000000051CD99E2000000000000073D
+t1372428770
+s1853
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapTiledLayerView.h
+c0000000051CD99E200000000000006CC
+t1372428770
+s1740
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapView.h
+c0000000051CD99E200000000000063BC
+t1372428770
+s25532
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapViewDelegate.h
+c0000000051CD99E20000000000003532
+t1372428770
+s13618
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMarker.h
+c0000000051CD99E20000000000002035
+t1372428770
+s8245
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMemoryCache.h
+c0000000051CD99E200000000000009A9
+t1372428770
+s2473
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPointAnnotation.h
+c0000000051CD99E2000000000000076A
+t1372428770
+s1898
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPolygonAnnotation.h
+c0000000051CD99E20000000000000C94
+t1372428770
+s3220
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPolylineAnnotation.h
+c0000000051CD99E2000000000000084D
+t1372428770
+s2125
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMProjection.h
+c0000000051CD99E20000000000000D7D
+t1372428770
+s3453
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMShape.h
+c0000000051CD99E20000000000001950
+t1372428770
+s6480
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMShapeAnnotation.h
+c0000000051CD99E200000000000009F6
+t1372428770
+s2550
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMStaticMapView.h
+c0000000051CD99E20000000000001726
+t1372428770
+s5926
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTile.h
+c0000000051CD99E20000000000000914
+t1372428770
+s2324
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileCache.h
+c0000000051CD99E20000000000001EB1
+t1372428770
+s7857
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileMillSource.h
+c0000000051CD99E20000000000000D98
+t1372428770
+s3480
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileSource.h
+c0000000051CD99E200000000000011E0
+t1372428770
+s4576
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileSourcesContainer.h
+c0000000051CD99E20000000000000AFC
+t1372428770
+s2812
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMUserLocation.h
+c0000000051CD99E200000000000009B3
+t1372428770
+s2483
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMUserTrackingBarButtonItem.h
+c0000000051CD99E2000000000000091F
+t1372428770
+s2335
+
+N/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/MapBox
+c0000000051CD99E10000000000D36E44
+t1372428769
+s13856324
+
+N/Users/timanrebel/Development/modules/Mapbox/ScMapbox_Prefix.pch
+c0000000051F0E7E3000000000000003E
+t1374742499
+s62
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapbox.LinkFileList
+c0000000051F117270000000000000217
+t1374754599
+s535
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModule.o
+t1374754479
+s16296
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModuleAssets.o
+t1374754479
+s5312
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxView.o
+t1374821705
+s61584
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxViewProxy.o
+t1374821705
+s53488
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/SnowcietySource.o
+t2
+s0
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/libScMapbox.a
+t1374821705
+s137480
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapbox.LinkFileList
+c0000000051F11727000000000000021B
+t1374754599
+s539
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModule.o
+t1374754529
+s16288
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModuleAssets.o
+t1374754529
+s5312
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxView.o
+t1374821705
+s61588
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxViewProxy.o
+t1374821705
+s53488
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/SnowcietySource.o
+t2
+s0
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/libScMapbox.a
+t1374821705
+s137480
+
+N/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/libScMapbox.a
+t1374821705
+s275008
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/Bridge.h
+c0000000051D1571D0000000000000268
+t1372673821
+s616
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollCallback.h
+c0000000051D1571D0000000000000AA8
+t1372673821
+s2728
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollContext.h
+c0000000051D1571D00000000000013B2
+t1372673821
+s5042
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollObject.h
+c0000000051D1571D0000000000000D7F
+t1372673821
+s3455
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/LayoutConstraint.h
+c0000000051D1571B0000000000000B9E
+t1372673819
+s2974
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/ListenerEntry.h
+c0000000051D157200000000000000269
+t1372673824
+s617
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiAnimation.h
+c0000000051D157200000000000001201
+t1372673824
+s4609
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBase.h
+c0000000051D1572100000000000049EE
+t1372673825
+s18926
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBindingRunLoop.h
+c0000000051D1571D000000000000058B
+t1372673821
+s1419
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBlob.h
+c0000000051D157210000000000000B0A
+t1372673825
+s2826
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBuffer.h
+c0000000051D1572000000000000005EF
+t1372673824
+s1519
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiColor.h
+c0000000051D157220000000000000496
+t1372673826
+s1174
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/Ti.h
+c0000000051D1571B0000000000000721
+t1372673819
+s1825
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiBase.h
+c0000000051D1571C00000000000019E1
+t1372673820
+s6625
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRef.h
+c0000000051D1572000000000000014DD
+t1372673824
+s5341
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRefPrivate.h
+c0000000051D1571D0000000000000990
+t1372673821
+s2448
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiCore.h
+c0000000051D1572000000000000006A0
+t1372673824
+s1696
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiObjectRef.h
+c0000000051D157200000000000009462
+t1372673824
+s37986
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRef.h
+c0000000051D1572000000000000016E7
+t1372673824
+s5863
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRefCF.h
+c0000000051D157200000000000000A40
+t1372673824
+s2624
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiValueRef.h
+c0000000051D1571D000000000000323B
+t1372673821
+s12859
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/WebKitAvailability.h
+c0000000051D1571D00000000000080D1
+t1372673821
+s32977
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiDimension.h
+c0000000051D1571C0000000000001E5F
+t1372673820
+s7775
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiEvaluator.h
+c0000000051D1572000000000000004D5
+t1372673824
+s1237
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiFile.h
+c0000000051D157230000000000000680
+t1372673827
+s1664
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiGradient.h
+c0000000051D1571D00000000000005FC
+t1372673821
+s1532
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiHost.h
+c0000000051D1571D0000000000000532
+t1372673821
+s1330
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiModule.h
+c0000000051D1571C0000000000000736
+t1372673820
+s1846
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiPoint.h
+c0000000051D1571B0000000000000443
+t1372673819
+s1091
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiProxy.h
+c0000000051D157210000000000002B85
+t1372673825
+s11141
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiPublicAPI.h
+c0000000051D157200000000000000A67
+t1372673824
+s2663
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiRect.h
+c0000000051D15721000000000000045C
+t1372673825
+s1116
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiStylesheet.h
+c0000000051D1571D00000000000002CB
+t1372673821
+s715
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiThreading.h
+c0000000051D1572100000000000008EF
+t1372673825
+s2287
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiUIView.h
+c0000000051D157200000000000002038
+t1372673824
+s8248
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiUtils.h
+c0000000051D1571C0000000000004C66
+t1372673820
+s19558
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiViewProxy.h
+c0000000051D157210000000000003E32
+t1372673825
+s15922
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiViewTemplate.h
+c0000000051D15720000000000000028D
+t1372673824
+s653
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/WebFont.h
+c0000000051D1571C00000000000008BA
+t1372673820
+s2234
+
+N/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/defines.h
+c0000000051D1571B0000000000000A6D
+t1372673819
+s2669
+
+N/var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-bzaqbjbysrzwbvdaryogwazgezzo/ScMapbox_Prefix.pch.pch
+t1374745026
+s3116088
+
+N/var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-exephxqkqdspqlbtkswsbuitvzqu/ScMapbox_Prefix.pch.pch
+t1374745026
+s3116216
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb744f6d267a2b741^40d924d367a2b741^---0#1#1#--18"Check dependencies36"082F6AA2-03D3-4B65-8790-003A6B6D03DD-
+
+CCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModule.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396447279.503959
+e396447279.769816
+r1
+xCompileC
+xbuild/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModule.o
+x/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiModule.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiProxy.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBase.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/defines.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiThreading.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiPublicAPI.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiEvaluator.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollContext.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiCore.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/Ti.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiBase.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiObjectRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiValueRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/WebKitAvailability.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRefCF.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollCallback.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollObject.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBindingRunLoop.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiUtils.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiDimension.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiColor.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/WebFont.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiFile.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBuffer.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBlob.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiHost.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/Bridge.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m189"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModule.o Classes/ScMapboxModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf33b812f4ea1b741^4d14c52f4ea1b741^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m0000000000000000^3512"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModule.o Classes/ScMapboxModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/timanrebel/Development/modules/Mapbox    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-generated-files.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-own-target-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-all-target-headers.hmap -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-project-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources/armv7 -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources -F/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos -F/Users/timanrebel/Development/modules/Mapbox -DTI_POST_1_2 -include /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-bzaqbjbysrzwbvdaryogwazgezzo/ScMapbox_Prefix.pch -MMD -MT dependencies -MF /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModule.d --serialize-diagnostics /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModule.dia -c /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m -o /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModule.o36"0E78FAA1-6DAE-4136-800C-3BD53808C94A-
+bCC2C1413-02F5-4B22-954D-C09F795EB789
+
+CCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModuleAssets.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396447279.504727
+e396447279.544193
+r1
+xCompileC
+xbuild/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModuleAssets.o
+x/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m201"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModuleAssets.o Classes/ScMapboxModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler185e812f4ea1b741^fad08d2f4ea1b741^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m0000000000000000^3548"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModuleAssets.o Classes/ScMapboxModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/timanrebel/Development/modules/Mapbox    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-generated-files.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-own-target-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-all-target-headers.hmap -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-project-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources/armv7 -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources -F/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos -F/Users/timanrebel/Development/modules/Mapbox -DTI_POST_1_2 -include /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-bzaqbjbysrzwbvdaryogwazgezzo/ScMapbox_Prefix.pch -MMD -MT dependencies -MF /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModuleAssets.d --serialize-diagnostics /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModuleAssets.dia -c /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m -o /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxModuleAssets.o36"9EE6EA00-2A99-4EE0-A19A-0A36E6755979-
+bCC2C1413-02F5-4B22-954D-C09F795EB789
+
+CCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxView.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396514504.812086
+e396514505.118516
+r1
+xCompileC
+xbuild/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxView.o
+x/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiUIView.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiProxy.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBase.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/defines.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiThreading.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiPublicAPI.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiEvaluator.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollContext.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiCore.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/Ti.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiBase.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiObjectRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiValueRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/WebKitAvailability.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRefCF.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollCallback.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollObject.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBindingRunLoop.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiAnimation.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiPoint.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiDimension.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiColor.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/ListenerEntry.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiModule.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiUtils.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/WebFont.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiFile.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBuffer.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBlob.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/LayoutConstraint.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiGradient.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/MapBox.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMFoundation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCacheObject.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTile.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCircle.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapLayer.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCompositeSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAbstractMercatorTileSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMGlobalConstants.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMFractalTileProjection.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMProjection.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMConfiguration.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCoordinateGridSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMDatabaseCache.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileCache.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMInteractiveSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapViewDelegate.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapOverlayView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapTiledLayerView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapScrollView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileSourcesContainer.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMBTilesSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapBoxSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAbstractWebMapSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMarker.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMemoryCache.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPointAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPolygonAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMShapeAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPolylineAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMShape.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMStaticMapView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileMillSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMGenericMapSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMUserLocation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMUserTrackingBarButtonItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m185"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxView.o Classes/ScMapboxView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1b0dd0c854a2b741^c9571ec954a2b741^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m0000000000000000^3500"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxView.o Classes/ScMapboxView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/timanrebel/Development/modules/Mapbox    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-generated-files.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-own-target-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-all-target-headers.hmap -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-project-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources/armv7 -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources -F/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos -F/Users/timanrebel/Development/modules/Mapbox -DTI_POST_1_2 -include /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-bzaqbjbysrzwbvdaryogwazgezzo/ScMapbox_Prefix.pch -MMD -MT dependencies -MF /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxView.d --serialize-diagnostics /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxView.dia -c /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m -o /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxView.o36"070409A7-3F2F-4268-AF65-02B87958A388-
+bD0EEB7B9-1DFE-47EF-BD0F-0D0532CEF2F0
+
+CCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxViewProxy.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396514504.811368
+e396514505.111986
+r1
+xCompileC
+xbuild/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxViewProxy.o
+x/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiViewProxy.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiProxy.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBase.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/defines.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiThreading.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiPublicAPI.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiEvaluator.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollContext.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiCore.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/Ti.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiBase.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiObjectRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiValueRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/WebKitAvailability.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRefCF.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollCallback.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollObject.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBindingRunLoop.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiUIView.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiAnimation.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiPoint.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiDimension.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiColor.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/ListenerEntry.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiModule.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiUtils.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/WebFont.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiFile.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBuffer.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBlob.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/LayoutConstraint.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiGradient.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiRect.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiViewTemplate.h
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/MapBox.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMFoundation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCacheObject.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTile.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCircle.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapLayer.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCompositeSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAbstractMercatorTileSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMGlobalConstants.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMFractalTileProjection.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMProjection.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMConfiguration.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCoordinateGridSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMDatabaseCache.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileCache.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMInteractiveSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapViewDelegate.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapOverlayView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapTiledLayerView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapScrollView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileSourcesContainer.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMBTilesSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapBoxSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAbstractWebMapSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMarker.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMemoryCache.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPointAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPolygonAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMShapeAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPolylineAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMShape.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMStaticMapView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileMillSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMGenericMapSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMUserLocation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMUserTrackingBarButtonItem.h
+o/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m:30:46: warning: incompatible pointer types sending 'NSArray *' to parameter of type 'NSDictionary *' [-Wincompatible-pointer-types]
+o                                     center: center
+o                                             ^~~~~~
+oIn file included from /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m:9:
+o/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.h:14:107: note: passing argument to parameter 'center' here
+o- (void)initWithHost:(NSString *)host minZoom:(float)minZoom maxZoom:(float)maxZoom center:(NSDictionary*)center zoom:(float)zoom;
+o                                                                                                          ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m195"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxViewProxy.o Classes/ScMapboxViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerbde0cfc854a2b741^54c91cc954a2b741^-793"/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m:30:46: warning: incompatible pointer types sending 'NSArray *' to parameter of type 'NSDictionary *' [-Wincompatible-pointer-types]                                     center: center                                             ^~~~~~In file included from /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m:9:/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.h:14:107: note: passing argument to parameter 'center' here- (void)initWithHost:(NSString *)host minZoom:(float)minZoom maxZoom:(float)maxZoom center:(NSDictionary*)center zoom:(float)zoom;                                                                                                          ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@84"Incompatible pointer types sending 'NSArray *' to parameter of type 'NSDictionary *'-396514505#18446744073709551615#0#1(2@43"Passing argument to parameter 'center' here-396514505#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.h0000000000000000^13#106#13#106#456#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m0000000000000000^29#45#29#45#1127#0#14"Semantic Issue1(3@79"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m0000000000000000^29#45#29#51#1127#0#-0#0#1#-19%DVTDocumentLocation4@79"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m0000000000000000^3530"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxViewProxy.o Classes/ScMapboxViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/timanrebel/Development/modules/Mapbox    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-generated-files.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-own-target-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-all-target-headers.hmap -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-project-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources/armv7 -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources -F/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos -F/Users/timanrebel/Development/modules/Mapbox -DTI_POST_1_2 -include /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-bzaqbjbysrzwbvdaryogwazgezzo/ScMapbox_Prefix.pch -MMD -MT dependencies -MF /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxViewProxy.d --serialize-diagnostics /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxViewProxy.dia -c /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m -o /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapboxViewProxy.o36"2951C84F-F3AF-4F65-8017-2CE3ACF421A4-
+bD0EEB7B9-1DFE-47EF-BD0F-0D0532CEF2F0
+
+CCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/SnowcietySource.o /Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396447329.523910
+e396447329.647659
+r0
+xCompileC
+xbuild/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/SnowcietySource.o
+x/Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m:28:
+o/Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.h:28:9: fatal error: 'RMAbstractWebMapSource.h' file not found
+o#import "RMAbstractWebMapSource.h"
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m191"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/SnowcietySource.o Classes/SnowcietySource.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9b5686614ea1b741^a113a6614ea1b741^-293"In file included from /Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m:28:/Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.h:28:9: fatal error: 'RMAbstractWebMapSource.h' file not found#import "RMAbstractWebMapSource.h"        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@41"'RMAbstractWebMapSource.h' file not found-396447329#18446744073709551615#0#1(2@96"In file included from /Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m:28:-396447329#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m0000000000000000^27#8#27#8#1413#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.h0000000000000000^27#8#27#8#1413#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m0000000000000000^3518"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/SnowcietySource.o Classes/SnowcietySource.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/timanrebel/Development/modules/Mapbox    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-generated-files.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-own-target-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-all-target-headers.hmap -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-project-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources/armv7 -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources -F/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos -F/Users/timanrebel/Development/modules/Mapbox -DTI_POST_1_2 -include /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-bzaqbjbysrzwbvdaryogwazgezzo/ScMapbox_Prefix.pch -MMD -MT dependencies -MF /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/SnowcietySource.d --serialize-diagnostics /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/SnowcietySource.dia -c /Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m -o /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/SnowcietySource.o36"CACBA370-60EB-49E2-8E88-854729E10959-
+bCA296EB1-1F88-44C6-9817-AEF7B967514B
+
+CCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModule.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396447329.525993
+e396447329.823430
+r1
+xCompileC
+xbuild/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModule.o
+x/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiModule.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiProxy.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBase.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/defines.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiThreading.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiPublicAPI.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiEvaluator.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollContext.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiCore.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/Ti.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiBase.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiObjectRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiValueRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/WebKitAvailability.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRefCF.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollCallback.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollObject.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBindingRunLoop.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiUtils.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiDimension.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiColor.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/WebFont.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiFile.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBuffer.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBlob.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiHost.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/Bridge.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m191"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModule.o Classes/ScMapboxModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere46a88614ea1b741^81ccd2614ea1b741^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m0000000000000000^3519"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModule.o Classes/ScMapboxModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/timanrebel/Development/modules/Mapbox    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-generated-files.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-own-target-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-all-target-headers.hmap -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-project-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources/armv7s -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources -F/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos -F/Users/timanrebel/Development/modules/Mapbox -DTI_POST_1_2 -include /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-exephxqkqdspqlbtkswsbuitvzqu/ScMapbox_Prefix.pch -MMD -MT dependencies -MF /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModule.d --serialize-diagnostics /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModule.dia -c /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModule.m -o /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModule.o36"5A3E2A89-2D45-475F-BA0F-5019BC74A434-
+bCA296EB1-1F88-44C6-9817-AEF7B967514B
+
+CCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModuleAssets.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396447329.533371
+e396447329.576760
+r1
+xCompileC
+xbuild/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModuleAssets.o
+x/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m203"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModuleAssets.o Classes/ScMapboxModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerbff288614ea1b741^84b793614ea1b741^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m0000000000000000^3555"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModuleAssets.o Classes/ScMapboxModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/timanrebel/Development/modules/Mapbox    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-generated-files.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-own-target-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-all-target-headers.hmap -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-project-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources/armv7s -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources -F/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos -F/Users/timanrebel/Development/modules/Mapbox -DTI_POST_1_2 -include /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-exephxqkqdspqlbtkswsbuitvzqu/ScMapbox_Prefix.pch -MMD -MT dependencies -MF /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModuleAssets.d --serialize-diagnostics /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModuleAssets.dia -c /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxModuleAssets.m -o /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxModuleAssets.o36"DCFB6FCC-B33C-4D0D-9745-6E1C8721DB1A-
+bCA296EB1-1F88-44C6-9817-AEF7B967514B
+
+CCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxView.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396514504.814621
+e396514505.128243
+r1
+xCompileC
+xbuild/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxView.o
+x/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiUIView.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiProxy.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBase.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/defines.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiThreading.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiPublicAPI.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiEvaluator.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollContext.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiCore.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/Ti.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiBase.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiObjectRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiValueRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/WebKitAvailability.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRefCF.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollCallback.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollObject.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBindingRunLoop.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiAnimation.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiPoint.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiDimension.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiColor.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/ListenerEntry.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiModule.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiUtils.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/WebFont.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiFile.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBuffer.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBlob.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/LayoutConstraint.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiGradient.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/MapBox.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMFoundation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCacheObject.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTile.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCircle.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapLayer.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCompositeSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAbstractMercatorTileSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMGlobalConstants.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMFractalTileProjection.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMProjection.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMConfiguration.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCoordinateGridSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMDatabaseCache.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileCache.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMInteractiveSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapViewDelegate.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapOverlayView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapTiledLayerView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapScrollView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileSourcesContainer.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMBTilesSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapBoxSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAbstractWebMapSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMarker.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMemoryCache.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPointAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPolygonAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMShapeAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPolylineAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMShape.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMStaticMapView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileMillSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMGenericMapSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMUserLocation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMUserTrackingBarButtonItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m187"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxView.o Classes/ScMapboxView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere2acd0c854a2b741^fed420c954a2b741^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m0000000000000000^3507"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxView.o Classes/ScMapboxView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/timanrebel/Development/modules/Mapbox    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-generated-files.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-own-target-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-all-target-headers.hmap -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-project-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources/armv7s -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources -F/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos -F/Users/timanrebel/Development/modules/Mapbox -DTI_POST_1_2 -include /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-exephxqkqdspqlbtkswsbuitvzqu/ScMapbox_Prefix.pch -MMD -MT dependencies -MF /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxView.d --serialize-diagnostics /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxView.dia -c /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.m -o /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxView.o36"85851CD6-D1CB-4C45-829A-82E18DFE8097-
+bD0EEB7B9-1DFE-47EF-BD0F-0D0532CEF2F0
+
+CCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxViewProxy.o /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396514504.812426
+e396514505.110323
+r1
+xCompileC
+xbuild/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxViewProxy.o
+x/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiViewProxy.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiProxy.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBase.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/defines.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiThreading.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiPublicAPI.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiEvaluator.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollContext.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiCore.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/Ti.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiBase.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiObjectRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiValueRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/WebKitAvailability.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRef.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiStringRefCF.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollCallback.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/KrollObject.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBindingRunLoop.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiUIView.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiAnimation.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiPoint.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiDimension.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiColor.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/ListenerEntry.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiModule.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiUtils.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/WebFont.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiFile.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBuffer.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiBlob.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/LayoutConstraint.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiGradient.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiRect.h
+d/Users/timanrebel/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiViewTemplate.h
+d/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/MapBox.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMFoundation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCacheObject.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTile.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCircle.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapLayer.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCompositeSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAbstractMercatorTileSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMGlobalConstants.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMFractalTileProjection.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMProjection.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMConfiguration.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMCoordinateGridSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMDatabaseCache.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileCache.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMInteractiveSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapViewDelegate.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapOverlayView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapTiledLayerView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapScrollView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileSourcesContainer.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMBTilesSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMapBoxSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMAbstractWebMapSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMarker.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMMemoryCache.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPointAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPolygonAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMShapeAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMPolylineAnnotation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMShape.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMStaticMapView.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMTileMillSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMGenericMapSource.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMUserLocation.h
+d/Users/timanrebel/Development/modules/Mapbox/MapBox.framework/Headers/RMUserTrackingBarButtonItem.h
+o/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m:30:46: warning: incompatible pointer types sending 'NSArray *' to parameter of type 'NSDictionary *' [-Wincompatible-pointer-types]
+o                                     center: center
+o                                             ^~~~~~
+oIn file included from /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m:9:
+o/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.h:14:107: note: passing argument to parameter 'center' here
+o- (void)initWithHost:(NSString *)host minZoom:(float)minZoom maxZoom:(float)maxZoom center:(NSDictionary*)center zoom:(float)zoom;
+o                                                                                                          ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m197"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxViewProxy.o Classes/ScMapboxViewProxy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler952bd0c854a2b741^49a11cc954a2b741^-793"/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m:30:46: warning: incompatible pointer types sending 'NSArray *' to parameter of type 'NSDictionary *' [-Wincompatible-pointer-types]                                     center: center                                             ^~~~~~In file included from /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m:9:/Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.h:14:107: note: passing argument to parameter 'center' here- (void)initWithHost:(NSString *)host minZoom:(float)minZoom maxZoom:(float)maxZoom center:(NSDictionary*)center zoom:(float)zoom;                                                                                                          ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@84"Incompatible pointer types sending 'NSArray *' to parameter of type 'NSDictionary *'-396514505#18446744073709551615#0#1(2@43"Passing argument to parameter 'center' here-396514505#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxView.h0000000000000000^13#106#13#106#456#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m0000000000000000^29#45#29#45#1127#0#14"Semantic Issue1(3@79"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m0000000000000000^29#45#29#51#1127#0#-0#0#1#-19%DVTDocumentLocation4@79"file:///Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m0000000000000000^3537"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxViewProxy.o Classes/ScMapboxViewProxy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/timanrebel/Development/modules/Mapbox    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-generated-files.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-own-target-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-all-target-headers.hmap -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-project-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources/armv7s -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources -F/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos -F/Users/timanrebel/Development/modules/Mapbox -DTI_POST_1_2 -include /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-exephxqkqdspqlbtkswsbuitvzqu/ScMapbox_Prefix.pch -MMD -MT dependencies -MF /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxViewProxy.d --serialize-diagnostics /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxViewProxy.dia -c /Users/timanrebel/Development/modules/Mapbox/Classes/ScMapboxViewProxy.m -o /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapboxViewProxy.o36"CF9BCA6D-F3EF-4DD2-9F02-8360919ECEB8-
+bD0EEB7B9-1DFE-47EF-BD0F-0D0532CEF2F0
+
+CCompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/SnowcietySource.o /Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396447329.578195
+e396447329.671250
+r0
+xCompileC
+xbuild/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/SnowcietySource.o
+x/Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m:28:
+o/Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.h:28:9: fatal error: 'RMAbstractWebMapSource.h' file not found
+o#import "RMAbstractWebMapSource.h"
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m193"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/SnowcietySource.o Classes/SnowcietySource.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler022a94614ea1b741^5d19ac614ea1b741^-293"In file included from /Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m:28:/Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.h:28:9: fatal error: 'RMAbstractWebMapSource.h' file not found#import "RMAbstractWebMapSource.h"        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@41"'RMAbstractWebMapSource.h' file not found-396447329#18446744073709551615#0#1(2@96"In file included from /Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m:28:-396447329#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m0000000000000000^27#8#27#8#1413#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.h0000000000000000^27#8#27#8#1413#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m0000000000000000^3525"CompileC build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/SnowcietySource.o Classes/SnowcietySource.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/timanrebel/Development/modules/Mapbox    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-generated-files.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-own-target-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-all-target-headers.hmap -iquote /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/ScMapbox-project-headers.hmap -I/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include -I/Users/timanrebel/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.1.GA-iOS7/iphone/include/TiCore -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources/armv7s -I/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/DerivedSources -F/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos -F/Users/timanrebel/Development/modules/Mapbox -DTI_POST_1_2 -include /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-exephxqkqdspqlbtkswsbuitvzqu/ScMapbox_Prefix.pch -MMD -MT dependencies -MF /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/SnowcietySource.d --serialize-diagnostics /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/SnowcietySource.dia -c /Users/timanrebel/Development/modules/Mapbox/Classes/SnowcietySource.m -o /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/SnowcietySource.o36"C1F15F23-1FA0-4519-B99B-0B8182A1AC7E-
+bCA296EB1-1F88-44C6-9817-AEF7B967514B
+
+CCreateUniversalBinary /Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/libScMapbox.a normal armv7\ armv7s
+s396514505.137926
+e396514505.149727
+r1
+xCreateUniversalBinary
+x/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/libScMapbox.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Create universal binary /Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/libScMapbox.a79"CreateUniversalBinary build/Release-iphoneos/libScMapbox.a normal armv7\ armv7s556923c954a2b741^f85426c954a2b741^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/libScMapbox.a0000000000000000^709"CreateUniversalBinary build/Release-iphoneos/libScMapbox.a normal armv7\ armv7s    cd /Users/timanrebel/Development/modules/Mapbox    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    libtool -static /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/libScMapbox.a /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/libScMapbox.a -o /Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos/libScMapbox.a36"3EB95170-D27B-4D1F-BA98-508BE8F8FC59-
+bD0EEB7B9-1DFE-47EF-BD0F-0D0532CEF2F0
+
+CLibtool /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/libScMapbox.a normal armv7
+s396514505.129311
+e396514505.137336
+r1
+xLibtool
+x/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/libScMapbox.a
+xnormal
+xarmv7
+o/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+o/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+o/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+o/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library
+o/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Libtool build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/libScMapbox.a normal armv7104"Libtool build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/libScMapbox.a normal armv7b62e21c954a2b741^ed2b23c954a2b741^-1324"/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library-0#0#1#--1359"Libtool build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/libScMapbox.a normal armv7    cd /Users/timanrebel/Development/modules/Mapbox    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos -filelist /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/ScMapbox.LinkFileList -ObjC /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libz.dylib /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libsqlite3.dylib -framework QuartzCore -framework CoreLocation -framework Foundation -framework MapBox -o /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7/libScMapbox.a36"F75DCEAF-70D9-439B-9F5E-FADCEC2B3305-
+bD0EEB7B9-1DFE-47EF-BD0F-0D0532CEF2F0
+
+CLibtool /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/libScMapbox.a normal armv7s
+s396514505.129745
+e396514505.136905
+r1
+xLibtool
+x/Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/libScMapbox.a
+xnormal
+xarmv7s
+o/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+o/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+o/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+o/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library
+o/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Libtool build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/libScMapbox.a normal armv7s106"Libtool build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/libScMapbox.a normal armv7sbb4421c954a2b741^9d1323c954a2b741^-1324"/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library-0#0#1#--1364"Libtool build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/libScMapbox.a normal armv7s    cd /Users/timanrebel/Development/modules/Mapbox    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/timanrebel/Development/modules/Mapbox/build/Release-iphoneos -filelist /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/ScMapbox.LinkFileList -ObjC /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libz.dylib /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libsqlite3.dylib -framework QuartzCore -framework CoreLocation -framework Foundation -framework MapBox -o /Users/timanrebel/Development/modules/Mapbox/build/Mapbox.build/Release-iphoneos/Mapbox.build/Objects-normal/armv7s/libScMapbox.a36"067964CC-4AFF-4136-9CDD-DDBD72EA4F33-
+bD0EEB7B9-1DFE-47EF-BD0F-0D0532CEF2F0
+
+CProcessPCH /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-bzaqbjbysrzwbvdaryogwazgezzo/ScMapbox_Prefix.pch.pch ScMapbox_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/t0/6n93nwxs0h9gqz2m4h7ltpqm0000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/ScMapbox_Prefix-exephxqkqdspqlbtkswsbuitvzqu/ScMapbox_Prefix.pch.pch ScMapbox_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
