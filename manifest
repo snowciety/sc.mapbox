@@ -4,11 +4,10 @@
 #
 version: 0.1
 apiversion: 2
-description: My module
-author: Your Name
+description: Titanium module wrapping the Mapbox iOS SDK
+author: Timan Rebel
 license: Specify your license
-copyright: Copyright (c) 2013 by Your Company
-
+copyright: Copyright (c) 2013 by Snowciety
 
 # these should not be edited
 name: Mapbox

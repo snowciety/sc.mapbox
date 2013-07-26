@@ -11,6 +11,6 @@
     RMMapView *mapview;
 }
 
-- (void)initWithHost:(NSString *)host minZoom:(float)minZoom maxZoom:(float)maxZoom center:(NSDictionary*)center zoom:(float)zoom;
+- (void)createView;
 
 @end

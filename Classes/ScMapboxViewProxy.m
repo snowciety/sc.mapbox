@@ -13,23 +13,7 @@
 
 -(void)viewDidAttach
 {
-    NSString *host = [TiUtils stringValue:[self valueForUndefinedKey:@"host"]];
-    CGFloat zoom = [TiUtils floatValue:[self valueForUndefinedKey:@"zoom"] ];
-    CGFloat minZoom = [TiUtils floatValue:[self valueForUndefinedKey:@"minZoom"] ];
-    CGFloat maxZoom = [TiUtils floatValue:[self valueForUndefinedKey:@"maxZoom"] ];
-    NSArray *center = [self valueForUndefinedKey:@"center"];
-    
-    NSLog(@"[INFO] viewDidAttach");
-    NSLog(@"[INFO] host: %@", host);
-    NSLog(@"[INFO] zoom: %f", zoom);    
-    NSLog(@"[INFO] center %@", center);
-    
-    [(ScMapboxView*)[self view] initWithHost:host
-                                     minZoom: minZoom
-                                     maxZoom: maxZoom
-                                     center: center
-                                     zoom: zoom
-     ];
+    [(ScMapboxView*)[self view] createView];
 }
 
 

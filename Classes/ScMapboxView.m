@@ -19,10 +19,16 @@
     [super dealloc];
 }
 
-- (void)initWithHost:(NSString *)host minZoom:(float)minZoom maxZoom:(float)maxZoom center:(NSDictionary*)center zoom:(float)zoom;
+- (void)createView;
 {
     NSLog(@"[INFO] Loading map");
     
+    NSString *host = [TiUtils stringValue:[self.proxy valueForUndefinedKey:@"host"]];
+    CGFloat zoom = [TiUtils floatValue:[self.proxy valueForUndefinedKey:@"zoom"] ];
+    CGFloat minZoom = [TiUtils floatValue:[self.proxy valueForUndefinedKey:@"minZoom"] ];
+    CGFloat maxZoom = [TiUtils floatValue:[self.proxy valueForUndefinedKey:@"maxZoom"] ];
+    NSDictionary *center = [self.proxy valueForUndefinedKey:@"center"];
+
 //    RMMapBoxSource *onlineSource = [[RMMapBoxSource alloc] initWithMapID:@"timanrebel.map-xpm5jx30"];
     RMGenericMapSource *snowcietySource = [[RMGenericMapSource alloc] initWithHost:host tileCacheKey:@"snowciety" minZoom:minZoom maxZoom:maxZoom];
         
@@ -31,9 +37,9 @@
     mapview.zoom = zoom;
     mapview.hideAttribution = YES;
     
-    mapview.centerCoordinate = CLLocationCoordinate2DMake([[center valueForKey:@"lat"] floatValue], [[center valueForKey:@"lat"] floatValue]);
+//    mapview.centerCoordinate = CLLocationCoordinate2DMake([[center valueForKey:@"lat"] floatValue], [[center valueForKey:@"lat"] floatValue]);
     
-//    mapview.centerCoordinate = CLLocationCoordinate2DMake(47.05992, 11.66954);
+    mapview.centerCoordinate = CLLocationCoordinate2DMake(47.05992, 11.66954);
     
     mapview.autoresizingMask = UIViewAutoresizingFlexibleHeight | UIViewAutoresizingFlexibleWidth;
         
