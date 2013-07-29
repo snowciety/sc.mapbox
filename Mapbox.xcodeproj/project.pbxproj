@@ -29,14 +29,14 @@
 		AA747D9F0F9514B9006C5449 /* ScMapbox_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = AA747D9E0F9514B9006C5449 /* ScMapbox_Prefix.pch */; };
 		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
 		BC2E2C0117A128B0005F0E34 /* MapBox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BC2E2C0017A128B0005F0E34 /* MapBox.framework */; };
-		BC6BF00417A1206D00DCAE49 /* ScMapboxViewProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = BC6BF00217A1206D00DCAE49 /* ScMapboxViewProxy.h */; };
-		BC6BF00517A1206D00DCAE49 /* ScMapboxViewProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = BC6BF00317A1206D00DCAE49 /* ScMapboxViewProxy.m */; };
+		BC8DF0E317A67B6B000A9B93 /* ScMapboxView.h in Headers */ = {isa = PBXBuildFile; fileRef = BC8DF0E117A67B6B000A9B93 /* ScMapboxView.h */; };
+		BC8DF0E417A67B6B000A9B93 /* ScMapboxView.m in Sources */ = {isa = PBXBuildFile; fileRef = BC8DF0E217A67B6B000A9B93 /* ScMapboxView.m */; };
+		BC8DF0E717A67B7B000A9B93 /* ScMapboxViewProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = BC8DF0E517A67B7B000A9B93 /* ScMapboxViewProxy.h */; };
+		BC8DF0E817A67B7B000A9B93 /* ScMapboxViewProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = BC8DF0E617A67B7B000A9B93 /* ScMapboxViewProxy.m */; };
 		BCB8E92A17A12C420091F476 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCB8E92917A12C420091F476 /* CoreLocation.framework */; };
 		BCB8E92C17A12C4C0091F476 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCB8E92B17A12C4C0091F476 /* QuartzCore.framework */; };
 		BCB8E92E17A12C5B0091F476 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BCB8E92D17A12C5B0091F476 /* libsqlite3.dylib */; };
 		BCB8E93017A12C630091F476 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BCB8E92F17A12C630091F476 /* libz.dylib */; };
-		BCF136F117A11FCA00F7B39D /* ScMapboxView.h in Headers */ = {isa = PBXBuildFile; fileRef = BCF136EF17A11FCA00F7B39D /* ScMapboxView.h */; };
-		BCF136F217A11FCA00F7B39D /* ScMapboxView.m in Sources */ = {isa = PBXBuildFile; fileRef = BCF136F017A11FCA00F7B39D /* ScMapboxView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,14 +59,14 @@
 		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BC2E2C0017A128B0005F0E34 /* MapBox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MapBox.framework; sourceTree = "<group>"; };
 		BC2E2C0217A128BE005F0E34 /* MapBox.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = MapBox.bundle; path = MapBox.framework/Versions/A/Resources/MapBox.bundle; sourceTree = "<group>"; };
-		BC6BF00217A1206D00DCAE49 /* ScMapboxViewProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScMapboxViewProxy.h; path = Classes/ScMapboxViewProxy.h; sourceTree = "<group>"; };
-		BC6BF00317A1206D00DCAE49 /* ScMapboxViewProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScMapboxViewProxy.m; path = Classes/ScMapboxViewProxy.m; sourceTree = "<group>"; };
+		BC8DF0E117A67B6B000A9B93 /* ScMapboxView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScMapboxView.h; path = Classes/ScMapboxView.h; sourceTree = "<group>"; };
+		BC8DF0E217A67B6B000A9B93 /* ScMapboxView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScMapboxView.m; path = Classes/ScMapboxView.m; sourceTree = "<group>"; };
+		BC8DF0E517A67B7B000A9B93 /* ScMapboxViewProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScMapboxViewProxy.h; path = Classes/ScMapboxViewProxy.h; sourceTree = "<group>"; };
+		BC8DF0E617A67B7B000A9B93 /* ScMapboxViewProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScMapboxViewProxy.m; path = Classes/ScMapboxViewProxy.m; sourceTree = "<group>"; };
 		BCB8E92917A12C420091F476 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		BCB8E92B17A12C4C0091F476 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		BCB8E92D17A12C5B0091F476 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
 		BCB8E92F17A12C630091F476 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
-		BCF136EF17A11FCA00F7B39D /* ScMapboxView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScMapboxView.h; path = Classes/ScMapboxView.h; sourceTree = "<group>"; };
-		BCF136F017A11FCA00F7B39D /* ScMapboxView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScMapboxView.m; path = Classes/ScMapboxView.m; sourceTree = "<group>"; };
 		D2AAC07E0554694100DB518D /* libScMapbox.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libScMapbox.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -123,14 +123,14 @@
 		08FB77AEFE84172EC02AAC07 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				BCF136EF17A11FCA00F7B39D /* ScMapboxView.h */,
-				BCF136F017A11FCA00F7B39D /* ScMapboxView.m */,
-				BC6BF00217A1206D00DCAE49 /* ScMapboxViewProxy.h */,
-				BC6BF00317A1206D00DCAE49 /* ScMapboxViewProxy.m */,
 				24DE9E0F11C5FE74003F90F6 /* ScMapboxModuleAssets.h */,
 				24DE9E1011C5FE74003F90F6 /* ScMapboxModuleAssets.m */,
 				24DD6CF71134B3F500162E58 /* ScMapboxModule.h */,
 				24DD6CF81134B3F500162E58 /* ScMapboxModule.m */,
+				BC8DF0E117A67B6B000A9B93 /* ScMapboxView.h */,
+				BC8DF0E217A67B6B000A9B93 /* ScMapboxView.m */,
+				BC8DF0E517A67B7B000A9B93 /* ScMapboxViewProxy.h */,
+				BC8DF0E617A67B7B000A9B93 /* ScMapboxViewProxy.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -151,11 +151,11 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BCF136F117A11FCA00F7B39D /* ScMapboxView.h in Headers */,
+				BC8DF0E317A67B6B000A9B93 /* ScMapboxView.h in Headers */,
 				AA747D9F0F9514B9006C5449 /* ScMapbox_Prefix.pch in Headers */,
 				24DD6CF91134B3F500162E58 /* ScMapboxModule.h in Headers */,
 				24DE9E1111C5FE74003F90F6 /* ScMapboxModuleAssets.h in Headers */,
-				BC6BF00417A1206D00DCAE49 /* ScMapboxViewProxy.h in Headers */,
+				BC8DF0E717A67B7B000A9B93 /* ScMapboxViewProxy.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -184,6 +184,8 @@
 /* Begin PBXProject section */
 		0867D690FE84028FC02AAC07 /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+			};
 			buildConfigurationList = 1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "Mapbox" */;
 			compatibilityVersion = "Xcode 3.1";
 			developmentRegion = English;
@@ -226,10 +228,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC6BF00517A1206D00DCAE49 /* ScMapboxViewProxy.m in Sources */,
+				BC8DF0E817A67B7B000A9B93 /* ScMapboxViewProxy.m in Sources */,
 				24DD6CFA1134B3F500162E58 /* ScMapboxModule.m in Sources */,
 				24DE9E1211C5FE74003F90F6 /* ScMapboxModuleAssets.m in Sources */,
-				BCF136F217A11FCA00F7B39D /* ScMapboxView.m in Sources */,
+				BC8DF0E417A67B6B000A9B93 /* ScMapboxView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

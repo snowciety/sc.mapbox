@@ -5,9 +5,12 @@
  * Please see the LICENSE included with this distribution for details.
  */
 #import "TiViewProxy.h"
+#import "Mapbox/Mapbox.h"
 
 @interface ScMapboxViewProxy : TiViewProxy {
 
 }
+
+- (void)createMarker:(id)args;
 
 @end

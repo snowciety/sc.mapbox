@@ -8,23 +8,29 @@
 var win = Ti.UI.createWindow({
 	backgroundColor:'white'
 });
-var label = Ti.UI.createLabel();
-win.add(label);
-win.open();
 
-// TODO: write your module tests here
-var Mapbox = require('sc.mapbox');
-Ti.API.info("module is => " + Mapbox);
 
-var map = Mapbox.createView({
-	host: 'tiles.snowciety.com/snowciety',
+
+
+var mapbox = require('sc.mapbox');
+
+var mapView = mapbox.createView({
+	host: 'tiles.snowcietyapp.com/snowciety',
 	minZoom: 12,
 	maxZoom: 18,
-	zoom: 12,
-	center: {lat: 47.05992, lon: 11.66954},
+	zoom: 13,
+	centerLatLng: [45.467354,6.903534],
 	width: Ti.UI.FILL,
 	height: Ti.UI.FILL
 });
- 
-win.add(map);
 
+win.add(mapView);
+win.open();
+
+var marker = mapView.createMarker({
+	latlng: [45.467354,6.903534]
+});
+
+Ti.API.info(marker);
+ 
+ 

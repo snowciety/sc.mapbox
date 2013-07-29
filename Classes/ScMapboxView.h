@@ -5,12 +5,20 @@
  * Please see the LICENSE included with this distribution for details.
  */
 #import "TiUIView.h"
-#import <MapBox/MapBox.h>
+#import "Mapbox/Mapbox.h"
 
 @interface ScMapboxView : TiUIView {
-    RMMapView *mapview;
+    NSString *host;
+    float zoom;
+    float minZoom;
+    float maxZoom;
+    float centerLat;
+    float centerLng;
+    
+    RMMapView *mapView;
 }
 
-- (void)createView;
+-(void)createView;
+-(RMPointAnnotation *)createMarker:(id)args;
 
 @end

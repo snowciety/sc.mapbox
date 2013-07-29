@@ -6,56 +6,66 @@
  */
 
 #import "ScMapboxView.h"
-#import "TiUtils.h"
-#import <MapBox/MapBox.h>
-#import <Mapbox/RMGenericMapSource.h>
+#import "Mapbox/Mapbox.h"
+#import <Mapbox/RMOpenStreetMapSource.h>
+
 
 @implementation ScMapboxView
 
--(void)dealloc
-{
-    RELEASE_TO_NIL(mapview);
+-(void)createView {
+	NSLog(@"[Mapbox] createView");
     
-    [super dealloc];
+    NSLog(@"[Mapbox] %@", host);
+    
+    RMGenericMapSource *snowcietySource = [[RMGenericMapSource alloc] initWithHost:host tileCacheKey:@"snowcietyTiles" minZoom:minZoom maxZoom:maxZoom];
+    
+    mapView = [[RMMapView alloc] initWithFrame:[self frame] andTilesource:snowcietySource];
+    mapView.zoom = zoom;
+    
+    mapView.centerCoordinate = CLLocationCoordinate2DMake(centerLat, centerLng);
+    
+    mapView.autoresizingMask = UIViewAutoresizingFlexibleHeight | UIViewAutoresizingFlexibleWidth;
+    
+    [self addSubview:mapView];
 }
 
-- (void)createView;
-{
-    NSLog(@"[INFO] Loading map");
+-(RMPointAnnotation *)createMarker:(id)args {
+    NSLog(@"[Mapbox] createMarker");
     
-    NSString *host = [TiUtils stringValue:[self.proxy valueForUndefinedKey:@"host"]];
-    CGFloat zoom = [TiUtils floatValue:[self.proxy valueForUndefinedKey:@"zoom"] ];
-    CGFloat minZoom = [TiUtils floatValue:[self.proxy valueForUndefinedKey:@"minZoom"] ];
-    CGFloat maxZoom = [TiUtils floatValue:[self.proxy valueForUndefinedKey:@"maxZoom"] ];
-    NSDictionary *center = [self.proxy valueForUndefinedKey:@"center"];
-
-//    RMMapBoxSource *onlineSource = [[RMMapBoxSource alloc] initWithMapID:@"timanrebel.map-xpm5jx30"];
-    RMGenericMapSource *snowcietySource = [[RMGenericMapSource alloc] initWithHost:host tileCacheKey:@"snowciety" minZoom:minZoom maxZoom:maxZoom];
-        
-    mapview = [[RMMapView alloc] initWithFrame:CGRectMake(0, 0, 164, 174) andTilesource:snowcietySource];
-        
-    mapview.zoom = zoom;
-    mapview.hideAttribution = YES;
+    RMPointAnnotation *annotation = [RMPointAnnotation annotationWithMapView:mapView coordinate:mapView.centerCoordinate andTitle:@"Hello, Erik!"];
     
-//    mapview.centerCoordinate = CLLocationCoordinate2DMake([[center valueForKey:@"lat"] floatValue], [[center valueForKey:@"lat"] floatValue]);
+    [mapView addAnnotation:annotation];
     
-    mapview.centerCoordinate = CLLocationCoordinate2DMake(47.05992, 11.66954);
-    
-    mapview.autoresizingMask = UIViewAutoresizingFlexibleHeight | UIViewAutoresizingFlexibleWidth;
-        
-    [self addSubview:mapview];
-    
+    return annotation;
 }
 
 -(void)frameSizeChanged:(CGRect)frame bounds:(CGRect)bounds
 {
-    if (mapview!=nil)
+    if (mapView!=nil)
     {
-        [TiUtils setView:mapview positionRect:bounds];
+        [TiUtils setView:mapView positionRect:bounds];
     }
 }
 
+-(void)setHost_:(id)_host {
+    host = _host;
+}
+
+-(void)setCenterLatLng_:(id)_center {
+    centerLat = [TiUtils floatValue:[_center objectAtIndex:0]];
+    centerLng = [TiUtils floatValue:[_center objectAtIndex:1]];
+}
+
+-(void)setMinZoom_:(id)_minZoom {
+    minZoom = [TiUtils floatValue:_minZoom];
+}
+
+-(void)setMaxZoom_:(id)_maxZoom {
+    maxZoom = [TiUtils floatValue:_maxZoom];
+}
+
+-(void)setZoom_:(id)_zoom {
+    zoom = [TiUtils floatValue:_zoom];
+}
+
 @end
-
-
-

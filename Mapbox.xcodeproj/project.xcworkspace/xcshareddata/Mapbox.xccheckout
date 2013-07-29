@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8A8FC5F3-7622-4EE9-A17A-0CEF9E3A7A99</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Mapbox</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CE55DC18-C4B1-4B96-8D72-452D54CF5152</key>
+		<string>ssh://github.com/snowciety/sc.mapbox.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Mapbox.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CE55DC18-C4B1-4B96-8D72-452D54CF5152</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/snowciety/sc.mapbox.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CE55DC18-C4B1-4B96-8D72-452D54CF5152</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CE55DC18-C4B1-4B96-8D72-452D54CF5152</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sc</string>
+		</dict>
+	</array>
+</dict>
+</plist>

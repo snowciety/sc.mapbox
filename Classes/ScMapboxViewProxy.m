@@ -8,12 +8,24 @@
 #import "ScMapboxViewProxy.h"
 #import "ScMapboxView.h"
 #import "TiUtils.h"
+#import "Mapbox/MapBox.h"
 
 @implementation ScMapboxViewProxy
 
--(void)viewDidAttach
-{
-    [(ScMapboxView*)[self view] createView];
+-(void)viewDidAttach {
+    [super viewDidAttach];
+    
+    NSLog(@"[Proxy] viewDidAttach");
+    [(ScMapboxView *)[self view] createView];
+}
+
+-(void)createMarker:(id)args {
+    NSLog(@"[Proxy] createMarker");
+    NSLog(@"[Proxy] Args: %@", [args valueForKey:@"latlng"]);
+    
+    [self makeViewPerformSelector:@selector(createMarker:) withObject:args createIfNeeded:NO waitUntilDone:NO];
+    
+//    [(ScMapboxView *)[self view] createMarker:args];
 }
 
 
